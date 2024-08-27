@@ -79,4 +79,4 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This project is deployed using Render. You can access the live API at [https://exelon-cities-management-backend.onrender.com/api/cities](https://exelon-cities-management-backend.onrender.com/api/cities).
+This project is deployed using Render. You can access the live API at [https://exelon-cities-management-backend.onrender.com/api/cities](https://exelon-cities-management-backend.onrender.com/api/cities/).
